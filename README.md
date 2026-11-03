@@ -41,7 +41,7 @@ I don't just write code; I build systems, secure them, attempt to break them, an
 | **[Zero-Trust API Gateway](https://github.com/felixotieno1011-art/zero-trust-gateway)** | Reverse proxy with JWT auth, custom WAF, and Redis rate limiting. 69 passing tests. | Node.js, Redis, JWT |
 | **[Cloud-Native SIEM](https://github.com/felixotieno1011-art/cloud-native-siem)** | Streams logs over WebSockets and visualizes security alerts on a React dashboard. | Python, FastAPI, React |
 | **[DevSecOps Honeypot](https://github.com/felixotieno1011-art/honeypot-factory)** | IaC pipeline deploying a Cowrie SSH honeypot via Ansible and GitHub Actions. | Ansible, Docker, Actions |
-
+| **[Recon Platform](https://github.com/felixotieno1011-art/recon-platform)** | Automated vulnerability scanner with strict scope enforcement. 24 passing tests. | Starlette, Redis, React, SQLite |
 ---
 
 *Currently open to Junior Security & Backend roles.*
