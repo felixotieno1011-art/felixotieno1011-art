@@ -6,7 +6,7 @@ I build full-stack security infrastructure — from zero-trust API gateways and 
 
 I don't just write code; I build systems, secure them, attempt to break them, and document the entire process.
 
-📫 **Let's connect:**
+📫 **Let's connect:** 
 [🌐 My Portfolio](https://felix-portfolio-felix-933a.vercel.app) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/felix-otieno-967b46392) &nbsp;|&nbsp; [📧 Email](mailto:felixotieno1011@gmail.com)
 
 ---
@@ -28,7 +28,7 @@ I don't just write code; I build systems, secure them, attempt to break them, an
 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
