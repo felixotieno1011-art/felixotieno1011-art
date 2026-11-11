@@ -6,9 +6,8 @@ I build full-stack security infrastructure — from zero-trust API gateways and 
 
 I don't just write code; I build systems, secure them, attempt to break them, and document the entire process.
 
-🔗 **[View My Live Portfolio](https://felix-portfolio-felix-933a.vercel.app)**
-📄 **[Download My Resume](https://felix-portfolio-felix-933a.vercel.app/Felix_Otieno_Resume.pdf)**
-💼 **[Connect on LinkedIn](https://www.linkedin.com/in/felix-otieno-967b46392)**
+📫 **Let's connect:**
+[🌐 My Portfolio](https://felix-portfolio-felix-933a.vercel.app) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/felix-otieno-967b46392) &nbsp;|&nbsp; [📧 Email](mailto:felixotieno1011@gmail.com)
 
 ---
 
@@ -42,6 +41,13 @@ I don't just write code; I build systems, secure them, attempt to break them, an
 | **[Cloud-Native SIEM](https://github.com/felixotieno1011-art/cloud-native-siem)** | Streams logs over WebSockets and visualizes security alerts on a React dashboard. | Python, FastAPI, React |
 | **[DevSecOps Honeypot](https://github.com/felixotieno1011-art/honeypot-factory)** | IaC pipeline deploying a Cowrie SSH honeypot via Ansible and GitHub Actions. | Ansible, Docker, Actions |
 | **[Recon Platform](https://github.com/felixotieno1011-art/recon-platform)** | Automated vulnerability scanner with strict scope enforcement. 24 passing tests. | Starlette, Redis, React, SQLite |
+
+---
+
+### 📈 My GitHub Stats
+
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixotieno1011-art&show_icons=true&theme=radical&hide_title=true)
+
 ---
 
 *Currently open to Junior Security & Backend roles.*
